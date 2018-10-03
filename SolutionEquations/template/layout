@@ -5,7 +5,8 @@
     <title></title>
 </head>
 <body>
-	<h1>Solution of quadratic equations</h1>
+	<h1>Solution of quadratic equations:</h1>
 	<h2>{0}</h2>
+	<h2>{1}</h2>
 </body>
 </html>
